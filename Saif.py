@@ -1,0 +1,11 @@
+import turtle
+t=turtle.Turtle()
+t.penup()
+t.goto(-100,0)
+t.pendown()
+t.pensize(10)
+t.pencolor("red")
+t.forward(40)
+t.circle(50,180)
+t.circle(-50,180)
+t.forward(30)

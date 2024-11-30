@@ -1,0 +1,11 @@
+from turtle import *
+speed(1)
+print(position())
+forward(100)
+print(position())
+right(120)
+forward(100)
+print(position())
+right(120)
+forward(100)
+print(position())

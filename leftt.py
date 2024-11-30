@@ -1,0 +1,10 @@
+from turtle import *
+speed(10)
+forward(100)
+delay(1000)
+left(100)
+delay(1000)
+forward(100)
+left(100)
+delay(1000)
+forward(100)
